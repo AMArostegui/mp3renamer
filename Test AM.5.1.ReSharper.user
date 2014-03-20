@@ -1,0 +1,454 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/d:Main/f:ITagInfo.cs" caret="205" fromTop="8" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/d:Main/f:TagStream.cs" caret="793" fromTop="23" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/d:Main/f:Enumerations.cs" caret="1260" fromTop="28" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/d:ID3/f:Frame.cs" caret="5794" fromTop="72" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/d:ID3/f:ID3v2.cs" caret="19307" fromTop="16" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/d:ID3/f:ID3Info.cs" caret="1493" fromTop="30" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.Designer.cs" caret="23851" fromTop="29" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Program.cs" caret="449" fromTop="16" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/d:ID3/f:ID3v1.cs" caret="2577" fromTop="29" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:RenameType.cs" caret="558" fromTop="20" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3InfoGui.cs" caret="1388" fromTop="28" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="3642" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="7717" fromTop="26" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="7717" fromTop="18" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="8008" fromTop="46" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="8008" fromTop="33" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="9053" fromTop="57" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="9037" fromTop="11" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="8142" fromTop="31" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="8300" fromTop="24" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="8009" fromTop="8" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="7717" fromTop="5" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="28105" fromTop="16" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="29172" fromTop="37" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="29493" fromTop="41" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="8973" fromTop="31" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3InfoGui.cs" caret="1388" fromTop="28" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="13157" fromTop="28" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="14229" fromTop="29" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="14725" fromTop="42" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="15691" fromTop="51" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="10821" fromTop="18" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="10734" fromTop="14" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="1764" fromTop="30" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="4485" fromTop="57" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="3816" fromTop="39" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="3985" fromTop="46" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="4190" fromTop="51" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="4397" fromTop="40" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="2118" fromTop="19" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="3092" fromTop="45" />
+      <File id="B2400B1C-8D38-4403-B41E-F2BD345EC373/f:Mp3RenamerForm.cs" caret="3642" fromTop="40" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="35" />
+      <Item value="Folder" priority="0" />
+      <Item value="AllDirectories" priority="0" />
+      <Item value="foreach" priority="11" />
+      <Item value="in" priority="4" />
+      <Item value="File`0" priority="4" />
+      <Item value="Path`0" priority="4" />
+      <Item value="int" priority="10" />
+      <Item value="if" priority="40" />
+      <Item value="filename" priority="3" />
+      <Item value="index" priority="5" />
+      <Item value="TagLib" priority="0" />
+      <Item value="title" priority="4" />
+      <Item value="try" priority="1" />
+      <Item value="new" priority="18" />
+      <Item value="ID3Info" priority="0" />
+      <Item value="file" priority="5" />
+      <Item value="info" priority="18" />
+      <Item value="album" priority="2" />
+      <Item value="true" priority="11" />
+      <Item value="textFrame" priority="3" />
+      <Item value="List" priority="7" />
+      <Item value="List&lt;string&gt;" priority="3" />
+      <Item value="null" priority="20" />
+      <Item value="albumFrame" priority="2" />
+      <Item value="TextFrame" priority="0" />
+      <Item value="Compression" priority="0" />
+      <Item value="Ascii" priority="0" />
+      <Item value="this" priority="39" />
+      <Item value="OpenFileDialog`0" priority="0" />
+      <Item value="OpenFileDialog" priority="0" />
+      <Item value="DefaultExt" priority="0" />
+      <Item value="Filter" priority="0" />
+      <Item value="openDialog" priority="2" />
+      <Item value="DialogResult" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="OK" priority="0" />
+      <Item value="FolderBrowserDialog" priority="0" />
+      <Item value="Multiselect" priority="0" />
+      <Item value="recursive" priority="0" />
+      <Item value="option" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="Mp3InfoGui" priority="0" />
+      <Item value="Mp3InfoGui`0" priority="7" />
+      <Item value="List&lt;Mp3InfoGui&gt;" priority="2" />
+      <Item value="list" priority="0" />
+      <Item value="bool" priority="11" />
+      <Item value="false" priority="12" />
+      <Item value="Dictionary&lt;string,Mp3InfoGui&gt;" priority="0" />
+      <Item value="continue" priority="2" />
+      <Item value="mp3InfoGui" priority="0" />
+      <Item value="mp3Info" priority="0" />
+      <Item value="found" priority="1" />
+      <Item value="break" priority="5" />
+      <Item value="IO" priority="1" />
+      <Item value="i" priority="10" />
+      <Item value="DataGrid`0" priority="0" />
+      <Item value="DataGridViewRow`0" priority="3" />
+      <Item value="count" priority="0" />
+      <Item value="else" priority="12" />
+      <Item value="errorCount" priority="0" />
+      <Item value="Localizable" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="files" priority="1" />
+      <Item value="droppedFiles" priority="0" />
+      <Item value="private" priority="2" />
+      <Item value="void" priority="1" />
+      <Item value="IEnumerable" priority="2" />
+      <Item value="Action`0" priority="0" />
+      <Item value="Directory`0" priority="1" />
+      <Item value="return" priority="16" />
+      <Item value="Path" priority="0" />
+      <Item value="changed" priority="0" />
+      <Item value="folders" priority="0" />
+      <Item value="row" priority="3" />
+      <Item value="cell" priority="5" />
+      <Item value="DataGridViewColumn`0" priority="0" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="value" priority="7" />
+      <Item value="while" priority="1" />
+      <Item value="StringBuilder" priority="2" />
+      <Item value="switch" priority="0" />
+      <Item value="RenameType`0" priority="0" />
+      <Item value="sender" priority="1" />
+      <Item value="ToolStrip`0" priority="0" />
+      <Item value="ToolStripMenuItem`0" priority="2" />
+      <Item value="as" priority="1" />
+      <Item value="submenu" priority="2" />
+      <Item value="subitem" priority="0" />
+      <Item value="clickedItem" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="Dictionary&lt;int,bool&gt;" priority="0" />
+      <Item value="selectedRows" priority="9" />
+      <Item value="for" priority="3" />
+      <Item value="StringBuilder`0" priority="1" />
+      <Item value="builder" priority="2" />
+      <Item value="rowIndex" priority="0" />
+      <Item value="Clipboard`0" priority="0" />
+      <Item value="text" priority="0" />
+      <Item value="Length" priority="5" />
+      <Item value="char" priority="0" />
+      <Item value="lines" priority="2" />
+      <Item value="parts" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="directory" priority="0" />
+      <Item value="automaticItem" priority="4" />
+      <Item value="None" priority="0" />
+      <Item value="GetSelectedRows`0" priority="0" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="sortedList" priority="2" />
+      <Item value="KeyCode" priority="0" />
+      <Item value="refresh" priority="0" />
+      <Item value="Dictionary&lt;ToolStripMenuItem,int&gt;" priority="0" />
+      <Item value="patternFrecuency" priority="0" />
+      <Item value="Math`0" priority="0" />
+      <Item value="max" priority="0" />
+      <Item value="pattern" priority="0" />
+      <Item value="StringSplitOptions`0" priority="0" />
+      <Item value="words" priority="1" />
+      <Item value="alwaysLower" priority="1" />
+      <Item value="ScrollControlIntoView`0" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="infoFile" priority="0" />
+      <Item value="FileInfo`0" priority="0" />
+      <Item value="FileInfo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetFiles`0" priority="0" />
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetFileNameWithoutExtension`0" priority="1" />
+      <Item value="Combine`0" priority="1" />
+      <Item value="GetPathRoot`0" priority="0" />
+      <Item value="GetDirectoryName`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="IndexOf`0" priority="1" />
+      <Item value="Substring`0" priority="2" />
+      <Item value="Trim`0" priority="0" />
+      <Item value="Length" priority="4" />
+      <Item value="ToUpper`0" priority="3" />
+      <Item value="ToLower`0" priority="3" />
+      <Item value="Split`0" priority="2" />
+      <Item value="Replace`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="TrimStart`0" priority="0" />
+      <Item value="TrimEnd`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="2" />
+      <Item value="Compare`0" priority="4" />
+      <Item value="Format`0" priority="0" />
+      <Item value="CompareOrdinal`0" priority="0" />
+      <Item value="Empty" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TagLib.Tag">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TagLib.File">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tags.ID3.ID3Info">
+      <Item value="ID3v1Info" priority="0" />
+      <Item value="Save`0" priority="0" />
+      <Item value="ID3v2Info" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tags.ID3.ID3v1">
+      <Item value="Album" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="HaveTag" priority="0" />
+      <Item value="Artist" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.SearchOption">
+      <Item value="TopDirectoryOnly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tags.ID3.ID3v2">
+      <Item value="TextFrames" priority="1" />
+      <Item value="Version" priority="0" />
+      <Item value="HaveTag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="7" />
+      <Item value="Contains`0" priority="1" />
+      <Item value="Find`0" priority="0" />
+      <Item value="Count" priority="1" />
+      <Item value="Sort`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tags.ID3.ID3v2Frames.TextFrames.TextFrame">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tags.ID3.ID3v2Frames.FrameCollection`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Version">
+      <Item value="Minor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Test_AM.Mp3RenamerForm">
+      <Item value="Close`0" priority="0" />
+      <Item value="includeSubfoldersMenuItem" priority="1" />
+      <Item value="AddFiles`0" priority="1" />
+      <Item value="grid" priority="22" />
+      <Item value="dataGridView1" priority="0" />
+      <Item value="selectedFiles" priority="2" />
+      <Item value="statusLabel" priority="0" />
+      <Item value="addFilesLink" priority="0" />
+      <Item value="uppercaseMenuItem" priority="0" />
+      <Item value="firstLetterUpperMenuItem" priority="0" />
+      <Item value="sentenceCaseMenuItem" priority="0" />
+      <Item value="lowerCaseMenuItem" priority="0" />
+      <Item value="patternDashMenuItem" priority="1" />
+      <Item value="patternFolderToolStripMenuItem" priority="2" />
+      <Item value="Text" priority="0" />
+      <Item value="ApplyCurrentRename`0" priority="0" />
+      <Item value="GetCurrentRenameType`0" priority="0" />
+      <Item value="patternAutomaticMenuItem" priority="0" />
+      <Item value="intelligentConversionMenuItem" priority="2" />
+      <Item value="removeTrackNumberMenuItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Test_AM.Properties.Resources">
+      <Item value="AudioFilesFilter" priority="1" />
+      <Item value="RenamedXItems" priority="0" />
+      <Item value="Album" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="FileName" priority="0" />
+      <Item value="FullPath" priority="0" />
+      <Item value="PasteNoMatchLineCount" priority="0" />
+      <Item value="Artist" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="FileNames" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FolderBrowserDialog">
+      <Item value="SelectedPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripMenuItem">
+      <Item value="Checked" priority="8" />
+      <Item value="GetCurrentParent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="Rows" priority="17" />
+      <Item value="AutoGenerateColumns" priority="0" />
+      <Item value="DataSource" priority="0" />
+      <Item value="Columns" priority="1" />
+      <Item value="Paint" priority="0" />
+      <Item value="DataBindingComplete" priority="0" />
+      <Item value="DragEnter" priority="1" />
+      <Item value="DragDrop" priority="0" />
+      <Item value="SelectedCells" priority="1" />
+      <Item value="Refresh`0" priority="1" />
+      <Item value="SelectedRows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Count" priority="8" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="IndexOf`0" priority="0" />
+      <Item value="RemoveAt`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Test_AM.Mp3InfoGui">
+      <Item value="FileName" priority="7" />
+      <Item value="Album" priority="5" />
+      <Item value="Title" priority="5" />
+      <Item value="Path" priority="4" />
+      <Item value="FullPath" priority="0" />
+      <Item value="fullPath" priority="0" />
+      <Item value="GetFullPath`0" priority="5" />
+      <Item value="Artist" priority="2" />
+      <Item value="album" priority="4" />
+      <Item value="title" priority="1" />
+      <Item value="artist" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="3" />
+      <Item value="Values" priority="0" />
+      <Item value="ContainsKey`0" priority="2" />
+      <Item value="Keys" priority="1" />
+      <Item value="Count" priority="2" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripStatusLabel">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumn">
+      <Item value="HeaderText" priority="0" />
+      <Item value="DataPropertyName" priority="0" />
+      <Item value="ReadOnly" priority="0" />
+      <Item value="SortMode" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumnCollection">
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PaintEventArgs">
+      <Item value="Graphics" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="DrawString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.LinkLabel">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.EventArgs">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Array">
+      <Item value="CopyTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="Value" priority="1" />
+      <Item value="ColumnIndex" priority="0" />
+      <Item value="RowIndex" priority="3" />
+      <Item value="ReadOnly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Test_AM.RenameType">
+      <Item value="Upper" priority="1" />
+      <Item value="Lower" priority="3" />
+      <Item value="WordUpper" priority="2" />
+      <Item value="SentenceUpper" priority="1" />
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="2" />
+      <Item value="AppendFormat`0" priority="0" />
+      <Item value="Append`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRow">
+      <Item value="DataBoundItem" priority="2" />
+      <Item value="Selected" priority="1" />
+      <Item value="Cells" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStrip">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Clipboard">
+      <Item value="SetData`0" priority="0" />
+      <Item value="GetText`0" priority="0" />
+      <Item value="ContainsText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataFormats">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringSplitOptions">
+      <Item value="RemoveEmptyEntries" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="Parent" priority="1" />
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataGridViewColumnSortMode">
+      <Item value="Automatic" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyCode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="Delete" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewSelectedCellCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Max`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Move`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="Directory" priority="0" />
+      <Item value="Extension" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
