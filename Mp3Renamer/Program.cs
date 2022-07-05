@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Test_AM
+namespace Mp3Renamer
 {
     static class Program
     {

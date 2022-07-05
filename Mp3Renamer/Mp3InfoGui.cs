@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Text;
 
-namespace Test_AM
+namespace Mp3Renamer
 {
     /// <summary>
     /// Informarción de archivo MP3 relevante para la interfaz de usuario.

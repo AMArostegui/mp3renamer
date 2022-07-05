@@ -1,4 +1,4 @@
-﻿namespace Test_AM
+﻿namespace Mp3Renamer
 {
     /// <summary>
     /// Formas de renombrar.

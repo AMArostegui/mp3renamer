@@ -6,9 +6,9 @@ using System.IO;
 using System.Text;
 using System.Windows.Forms;
 using Tags.ID3;
-using Test_AM.Properties;
+using Mp3Renamer.Properties;
 
-namespace Test_AM
+namespace Mp3Renamer
 {
     /// <summary>
     /// Ventana principal de la aplicación.

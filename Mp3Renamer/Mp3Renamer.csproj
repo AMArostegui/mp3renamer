@@ -8,8 +8,8 @@
     <ProjectGuid>{B2400B1C-8D38-4403-B41E-F2BD345EC373}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Test_AM</RootNamespace>
-    <AssemblyName>Test AM</AssemblyName>
+    <RootNamespace>Mp3Renamer</RootNamespace>
+    <AssemblyName>Mp3Renamer</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

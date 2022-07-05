@@ -1,4 +1,4 @@
-﻿namespace Test_AM
+﻿namespace Mp3Renamer
 {
     partial class Mp3RenamerForm
     {
@@ -190,7 +190,7 @@
             // 
             // selectFolderMenuItem
             // 
-            this.selectFolderMenuItem.Image = global::Test_AM.Properties.Resources.add_folder;
+            this.selectFolderMenuItem.Image = global::Mp3Renamer.Properties.Resources.add_folder;
             this.selectFolderMenuItem.Name = "selectFolderMenuItem";
             this.selectFolderMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
             | System.Windows.Forms.Keys.A)));
@@ -200,7 +200,7 @@
             // 
             // selectFilesMenuItem
             // 
-            this.selectFilesMenuItem.Image = global::Test_AM.Properties.Resources.add_files;
+            this.selectFilesMenuItem.Image = global::Mp3Renamer.Properties.Resources.add_files;
             this.selectFilesMenuItem.Name = "selectFilesMenuItem";
             this.selectFilesMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.A)));
             this.selectFilesMenuItem.Size = new System.Drawing.Size(273, 22);
@@ -209,7 +209,7 @@
             // 
             // saveMenuItem
             // 
-            this.saveMenuItem.Image = global::Test_AM.Properties.Resources.save;
+            this.saveMenuItem.Image = global::Mp3Renamer.Properties.Resources.save;
             this.saveMenuItem.Name = "saveMenuItem";
             this.saveMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.G)));
             this.saveMenuItem.Size = new System.Drawing.Size(273, 22);
@@ -218,7 +218,7 @@
             // 
             // exitMenuItem
             // 
-            this.exitMenuItem.Image = global::Test_AM.Properties.Resources.exit;
+            this.exitMenuItem.Image = global::Mp3Renamer.Properties.Resources.exit;
             this.exitMenuItem.Name = "exitMenuItem";
             this.exitMenuItem.Size = new System.Drawing.Size(273, 22);
             this.exitMenuItem.Text = "&Salir";
@@ -294,7 +294,7 @@
             // 
             // copyMenuItem
             // 
-            this.copyMenuItem.Image = global::Test_AM.Properties.Resources.copy;
+            this.copyMenuItem.Image = global::Mp3Renamer.Properties.Resources.copy;
             this.copyMenuItem.Name = "copyMenuItem";
             this.copyMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
             this.copyMenuItem.ShowShortcutKeys = false;
@@ -304,7 +304,7 @@
             // 
             // pasteMenuItem
             // 
-            this.pasteMenuItem.Image = global::Test_AM.Properties.Resources.paste;
+            this.pasteMenuItem.Image = global::Mp3Renamer.Properties.Resources.paste;
             this.pasteMenuItem.Name = "pasteMenuItem";
             this.pasteMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.V)));
             this.pasteMenuItem.ShowShortcutKeys = false;
@@ -314,7 +314,7 @@
             // 
             // cleanListMenuItem
             // 
-            this.cleanListMenuItem.Image = global::Test_AM.Properties.Resources.clear;
+            this.cleanListMenuItem.Image = global::Mp3Renamer.Properties.Resources.clear;
             this.cleanListMenuItem.Name = "cleanListMenuItem";
             this.cleanListMenuItem.Size = new System.Drawing.Size(202, 22);
             this.cleanListMenuItem.Text = "&Limpiar lista";
